@@ -21,3 +21,9 @@ print(name.replace("g", "t"))
 
 #Display a string multiple times by multiplying the string multiple time
 print(sudo*5)
+
+#Index
+print(name.index("h"))
+
+#Replace
+print(name.replace("gho", "bra"))
