@@ -9,4 +9,4 @@ b = [x * 2 for x in a ]
 
 time1 = timeit.timeit(code1, number = 100000)
 
-printf(f"list compression time: {time1}")
+printf(f"list compressio time: {time1}")
